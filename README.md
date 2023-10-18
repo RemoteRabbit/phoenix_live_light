@@ -1,6 +1,6 @@
 # PhoenixLiveLight
 
-_Example from ()[https://pragmaticstudio.com/tutorials/getting-started-with-phoenix-liveview]_
+_Example from [Pragmatic Studio](https://pragmaticstudio.com/tutorials/getting-started-with-phoenix-liveview)_
 
 To start your Phoenix server:
 
