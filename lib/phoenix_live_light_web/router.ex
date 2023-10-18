@@ -17,7 +17,8 @@ defmodule PhoenixLiveLightWeb.Router do
   scope "/", PhoenixLiveLightWeb do
     pipe_through :browser
 
-    get "/", PageController, :home
+    # get "/", PageController, :home
+    live "/", LiveLight
   end
 
   # Other scopes may use custom stacks.
